@@ -1,0 +1,13 @@
+{
+  "budget": 1,
+  "indent_error_code": "E_BAD_INDENT",
+  "event_error_code": "E_BAD_EVENT",
+  "state": { "stack": [0], "depths": [], "ledger": [], "applied": [] },
+  "events": [
+    { "id": 1, "kind": "line", "indent": 0 },
+    { "id": 2, "kind": "line", "indent": 4 },
+    { "id": 3, "kind": "line", "indent": 8 },
+    { "id": 4, "kind": "line", "indent": 4 },
+    { "id": 5, "kind": "line", "indent": 0 }
+  ]
+}
